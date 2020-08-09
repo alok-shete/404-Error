@@ -1,5 +1,6 @@
 body {
   background-color: #dedede;
+  min-width: 550px;
 }
 
 nav {
